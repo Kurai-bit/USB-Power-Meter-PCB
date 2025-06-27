@@ -3,7 +3,7 @@
 ## Design a USB inline power meter PCB that measures and displays voltage and current drawn by a USB-powered device using analog components only (no microcontroller or code).
 
 ## Tasks
-Design Requirements: br
+Design Requirements:
 	- USB Type-A male and female connectors (acts as a passthrough)
 	- Use a shunt resistor + op-amp-based current sensing circuit (e.g., using LM358)
 	- Voltage divider to measure USB voltage (5V nominal)
